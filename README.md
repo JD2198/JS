@@ -1,2 +1,2 @@
 # JS
-A code repository for javascript series at chai aur code
+A code repository for javascript series 
