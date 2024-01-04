@@ -41,12 +41,12 @@ chai()
 // Arrow func basic syntax below
 
 // const addTwo = (num1, num2) => {
-//     return num1 + num2
+//     return num1 + num2   // yaha we are using return keyword
 // }
 
 // console.log(addTwo(78,98))
 
 // Another way to use arrow function by Implicit return
 
-const addTwo = (num1, num2) => (num1 + num2)
+const addTwo = (num1, num2) => (num1 + num2)  // yaha khudse return hora not using return keyword 
 
