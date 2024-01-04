@@ -37,12 +37,12 @@ for (let index = 0; index < myArray.length; index++) {
 //     }
 //    console.log(`Value of i is ${index}`);
     
-// }
+// }       // jaise hi 5 detect hua break works now loop will not work further n it comes directly to line 40 outside of the scope
 
 for (let index = 1; index <= 20; index++) {
     if (index == 5) {
         console.log(`Detected 5`);
-        continue
+        continue    // ek baar ignore hoke n rest value print
     }
    console.log(`Value of i is ${index}`);
     
